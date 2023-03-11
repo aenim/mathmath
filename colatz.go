@@ -7,7 +7,6 @@ func main(){
 }
 
 func collatzalgtorythm(x int64){
-//
 	count := 1
 	inputvalue := x
 	
